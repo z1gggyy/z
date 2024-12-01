@@ -1,12 +1,18 @@
 h1 {
     text-align: center;
-    color: green;
+    color: black;
 }
 h2 {
     text-align: center;
-    color: red;
+    color: gray;
 }
 p { 
     text-align: left;
-    color: purple;
+    width: 100%;
+    color: blue;
+    font-family: 
+}
+h3 { 
+    text-align: left;
+    color: black;
 }
